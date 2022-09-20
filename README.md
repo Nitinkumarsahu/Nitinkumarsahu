@@ -1,9 +1,6 @@
+<img align="right" alt="GIF" height="256px" src="https://i.imgur.com/q0jR0sv.gif"/>
 
-<img align="right" alt="GIF" height="256px" src="https://i.imgur.com/q0jR0sv.gif" />
 ### Hi there 👋
-
-<!--
-**Hiroto77/Hiroto77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 ![Profile views](https://gpvc.arturio.dev/Hiroto77)
