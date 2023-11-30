@@ -8,3 +8,4 @@
 - 👯 I’m looking to collaborate on Whatsapp Bot Automation
 - 💬 Contact me through mail => **shivamkiran2@gmail.com** 
 
+[![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitinkumarsahu)](https://github.com/Nitinkumarsahu/github-readme-stats)
