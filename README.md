@@ -1,5 +1,5 @@
 ## 👋 Yo There!
-<img align="right" alt="GIF" height="256px" src="https://i.imgur.com/q0jR0sv.gif"/>![Profile views](https://gpvc.arturio.dev/Hiroto77)
+<img align="right" alt="GIF" height="256px" src="https://i.imgur.com/q0jR0sv.gif"/>![Profile views](https://gpvc.arturio.dev/Nitinkumarsahu)
 
 
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">A little About Me...
