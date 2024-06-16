@@ -1,5 +1,5 @@
 ## 👋 Yo There!
-<img align="right" alt="GIF" height="256px" src="https://i.imgur.com/q0jR0sv.gif"/>![](https://komarev.com/ghpvc/?username=Nitinkumarsahu)
+<img align="right" alt="GIF" height="500px" src="https://i.pinimg.com/236x/1f/17/ad/1f17ad2c6a5b1ba8918b80871aac5f9a.jpg"/>![](https://komarev.com/ghpvc/?username=Nitinkumarsahu)
 
 
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">A little About Me...
