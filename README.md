@@ -4,8 +4,8 @@
 
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">A little About Me...
 - 🔭 I’m currently working on Web-Development.
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on Whatsapp Bot Automation
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to work as Frontend Dev.
 - 💬 Contact me through mail => **shivamkiran2@gmail.com** 
 
 [![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitinkumarsahu)](https://github.com/Nitinkumarsahu/github-readme-stats)
