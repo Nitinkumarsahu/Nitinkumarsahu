@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Web-Development.
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to work as Frontend Dev.
-- 💬 Contact me through mail => **shivamkiran2@gmail.com** 
+- 💬 Contact me through mail => **nitin.ksahu20@gmail.com** 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitinkumarsahu" alt="nitinkumarsahu" /></a> </p>
 
