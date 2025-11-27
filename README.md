@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinkumarsahu&label=Profile%20views&color=0e75b6&style=flat" alt="nitinkumarsahu" /> </p><h1 align="center">Hi 👋, I'm Nitin Kumar Sahu</h1>
-<h3 align="center">Aspiring Data Analyst from India</h3><img align="right" alt="GIF" height="450px" width="250px" src="https://i.pinimg.com/236x/1f/17/ad/1f17ad2c6a5b1ba8918b80871aac5f9a.jpg"/>
+<h3 align="center">Aspiring Data Analyst from India</h3>
 
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">A little About Me...
 - 🔭 I’m currently Learning Data-Analytics
