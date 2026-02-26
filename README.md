@@ -7,11 +7,11 @@
 - 👯 I’m looking to work as Data-Analyst
 - 💬 Contact me through mail => **nitin.ksahu20@gmail.com** 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitinkumarsahu" alt="nitinkumarsahu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nitinkumarsahu" alt="Nitinkumarsahu" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nitin-kumar-sahu-8908b5220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitin-kumar-sahu-8908b5220/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nitin-kumar-sahu-8908b5220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitin-kumar-sahu-8908b5220/" height="30" width="40" /></a>
 <a href="https://instagram.com/@_.nitin.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_.nitin.io" height="30" width="40" /></a>
 </p>
 
